@@ -1,5 +1,9 @@
 # Automatic Beverage Dispenser
 
+# 3D view of the board
+```bash
+Images
+```
 Hardware design of a control unit for an automatic beverage dispenser. The system manages liquid pump operations based on readings from a hardware flow sensor. 
 
 ## Hardware Specifications
