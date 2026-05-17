@@ -17,5 +17,5 @@ Hardware design of a control unit for an automatic beverage dispenser. The syste
 ## Installation
 Clone this repository to your local machine:
 ```bash
-git clone [https://github.com/igokraj/Automatic-Beverage-Dispenser.git](https://github.com/igokraj/Automatic-Beverage-Dispenser.git)
+git clone https://github.com/igokraj/Automatic-Beverage-Dispenser.git
 cd Automatic-Beverage-Dispenser
